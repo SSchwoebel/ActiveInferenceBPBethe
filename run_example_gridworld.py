@@ -34,7 +34,7 @@ agent = 'bethe'
 #agent = 'meanfield'
 
 save_data = False
-data_folder = os.path.join('/home/sarah/proni','bethe_paper_data')
+data_folder = os.path.join('/home/yourname/yourproject','data_folder')
 
 trials = 50 #number of trials
 T = 5 #number of time steps in each trial
