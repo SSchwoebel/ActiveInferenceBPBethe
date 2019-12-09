@@ -1,4 +1,4 @@
-# ActiveInference, Belief Propagation, and the Bethe Approxiamtion
+# ActiveInference, Belief Propagation, and the Bethe Approximation
 
 This repository implements the active inference update equations as derived in (Schwöbel et al. 2018). It provides several classes which calculate beliefs of an artificial agent in accordance with free energy minimization. Additionally, the file 'run_example_gridworld.py' sets up different agents for the conditions described in the paper.
 
